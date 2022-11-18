@@ -16,4 +16,4 @@ Instructions to build and install ReVanced Extended.
     - [Common](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android)#common)
     - [NON-ROOT environment](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android)#non-root-environment)
     - [ROOT environment](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android)#root-environment)
-- [Information about the patch](https://github.com/inotia00/revanced-documentation/wiki/Options:-Information-about-the-patch)
+- [Information about the patch](https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch)
