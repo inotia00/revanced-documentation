@@ -12,10 +12,13 @@ Instructions to build and install ReVanced Extended.
   - [Method 2. Using RVX Builder (Windows, MacOS, Linux, Android)](https://github.com/inotia00/revanced-documentation/wiki/Method-2.-Using-RVX-Builder-(Windows---MacOS---Linux---Android))
     - [Using RVX Builder (Windows, MacOS, Linux)](https://github.com/inotia00/revanced-documentation/wiki/Method-2.-Using-RVX-Builder-(Windows---MacOS---Linux---Android)#using-rvx-builder-windows--macos--linux)
     - [Using RVX Builder (Android - termux)](https://github.com/inotia00/revanced-documentation/wiki/Method-2.-Using-RVX-Builder-(Windows---MacOS---Linux---Android)#using-rvx-builder-android---termux)
-  - [Method 3. Using official ReVanced Manager (Android)](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android))
-    - [Information](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android)#information)
-    - [Common](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android)#common)
-    - [NON-ROOT environment](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android)#non-root-environment)
-    - [ROOT environment](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android)#root-environment)
+  - [Method 3. Using RVX Manager (Android)](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-RVX-Manager-(Android))
+    - [Information](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-RVX-Manager-(Android)#information)
+    - [Common](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-RVX-Manager-(Android)#common)
+    - [NON-ROOT environment](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-RVX-Manager-(Android)#non-root-environment)
+    - [ROOT environment](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-RVX-Manager-(Android)#root-environment)
   - [Method 4. Using Revancify (Android - termux)](https://github.com/inotia00/revanced-documentation/wiki/Method-4.-Using-Revancify-(Android---termux))
 - [Information about the patch](https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch)
+
+# Patch Information with ScreenShot
+- [ReVanced-Extended-Community/Patches-Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-with-screenshots)
