@@ -4,7 +4,7 @@ Instructions to build and install ReVanced Extended.
 ___
 # Wiki
 
-- [About Extended](https://github.com/inotia00/revanced-documentation/wiki/About-Extended)
+- [Announcement](https://github.com/inotia00/revanced-documentation/wiki/Announcement)
 - [Prerequisites](https://github.com/inotia00/revanced-documentation/wiki/Before-start-(Prerequisites))
   - [Method 1. Using ReVanced CLI (PC)](https://github.com/inotia00/revanced-documentation/wiki/Method-1.-Using-ReVanced-CLI-(PC))
     - [Downloading prebuilt packages](https://github.com/inotia00/revanced-documentation/wiki/Method-1.-Using-ReVanced-CLI-(PC)#downloading-the-packages)
