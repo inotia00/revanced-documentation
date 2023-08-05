@@ -2,6 +2,9 @@
 
 Instructions to build and install ReVanced Extended.
 ___
+# Announcement of discontinuation of development
+- [Announcement](https://github.com/inotia00/revanced-documentation/wiki/Announcement)
+___
 # Wiki
 
 - [Announcement](https://github.com/inotia00/revanced-documentation/wiki/Announcement)
