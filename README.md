@@ -1,4 +1,4 @@
-# ReVanced Extended Documentatio
+# ReVanced Extended Documentation
 
 Instructions to build and install ReVanced Extended.
 ___
