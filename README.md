@@ -21,6 +21,7 @@ ___
     - [NON-ROOT environment](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-RVX-Manager-(Android)#non-root-environment)
     - [ROOT environment](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-RVX-Manager-(Android)#root-environment)
   - [Method 4. Using Revancify (Android - termux)](https://github.com/inotia00/revanced-documentation/wiki/Method-4.-Using-Revancify-(Android---termux))
+  - [Supplement. Patch for latest Reddit](https://github.com/inotia00/revanced-documentation/wiki/Supplement.-Patch-for-latest-Reddit)
 - [Information about the patch](https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch)
 ___
 # Patch Information with ScreenShot
