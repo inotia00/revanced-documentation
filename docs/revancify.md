@@ -21,32 +21,32 @@ Or use with arguments. Check them with `revancify -h` or `revancify --help`
 ## Guide with screenshots
 0. If you are installing Revancify for the first time, you can select the source
 
-![1](https://user-images.githubusercontent.com/108592928/221589836-a061aa72-7af2-47ca-b83c-4efa7184a722.png)
+![1](https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_1.png)
 
 Select `inotia00`
 
 1. Select `4 Update Resources` to download the latest patch
 
-![2](https://user-images.githubusercontent.com/108592928/221590174-ce8e406f-5fad-4990-a26c-214a5cec7dd2.png)
+![2](https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_2.png)
 
 2. You can select patches to include or exclude through `2 Select Patches`.
 
-![3](https://user-images.githubusercontent.com/108592928/221591977-447ff291-5738-419d-bd78-1479da3750c7.png)
+![3](https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_3.png)
 
 If you are patching in a ROOT environment, you should exclude the `GmsCore support` patch.
 
 If you are patching in a NON-ROOT environment, you should include the `GmsCore support` patch.
 
-![4](https://user-images.githubusercontent.com/108592928/221592020-50b71f53-8064-461f-8603-6ac596e29793.png)
+![4](https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_4.png)
 
 3. Before starting the patch, Please read this [documentation]( https://github.com/inotia00/revanced-documentation/wiki/Before-start-(Prerequisites)#common)
 
 4. Select `1 Patch App`
 
-![5](https://user-images.githubusercontent.com/108592928/221592758-f54983c3-5046-43a1-b2b5-8cfd7a8b8573.png)
+![5](https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_5.png)
 
 From the Version Selection Menu, choose the version labeled '[RECOMMENDED]'.
 
-![6](https://user-images.githubusercontent.com/108592928/221592769-62cdb522-cdb0-44f0-a40a-a5809dfddde4.png)
+![6](https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_6.png)
 
 The patch will automatically proceed and be installed on your device.
