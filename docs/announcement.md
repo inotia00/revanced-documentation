@@ -1,3 +1,3 @@
-# ReVanced Extended has been officially discontinued.
+# ReVanced Extended is currently active.
 
-For the most part, you can expect patches to continue working for the foreseeable future, but if they break, it's unlikely fixes will be provided.
+Please refer to the [release notes](https://github.com/inotia00/revanced-patches/releases/latest) on revanced-patches
