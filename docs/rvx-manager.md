@@ -19,22 +19,21 @@ Common
 ​
 ### 1. Check the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of revanced-patches for supported versions
 
-![support_version_youtube](https://github.com/inotia00/revanced-documentation/assets/108592928/e5667f35-70db-4230-afda-f2c35277539f)
+![support_version_youtube](https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_youtube.png)
 
 → YouTube
 
-![support_version_music](https://github.com/inotia00/revanced-documentation/assets/108592928/00fa30c0-795b-473f-87b2-1940b8a22103)
+![support_version_music](https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_youtube_music.png)
 
 → YouTube Music
 
-![support_version_reddit](https://github.com/inotia00/revanced-documentation/assets/108592928/760ee145-a581-4ce9-bd81-20bbd945d8f0)
+![support_version_reddit](https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_reddit.png)
 
 → Reddit
 
-
 ### 2. Download the supported version of YouTube / YouTube Music from APKMirror and **_install it on your device._**
 
-![APKMIRROR](https://github.com/inotia00/revanced-documentation/assets/108592928/7ae93e7a-34f9-4780-8ce9-6c1e4da2ab31)
+![APKMIRROR](https://github.com/inotia00/revanced-documentation/blob/main/images/apkmirror_youtube.png)
 
 ※ You must download the `nodpi` variant, and the architecture must be compatible with the device you plan to install the patched APK on.
 
@@ -53,18 +52,18 @@ Do not install APK downloaded from APKMirror on your device.
 
 ### 4. Launch RVX Manager, click `Patcher` and then `Select an application`.
 
-![1](https://github.com/inotia00/revanced-documentation/assets/108592928/5be0a6de-32c6-419b-886e-ff33b4c5f391)
+![1](https://github.com/inotia00/revanced-documentation/blob/main/images/rvx_manager_1.png)
 
 
 ### 4-1. If you want to build YouTube(ROOT) or YouTube Music(ROOT)
 
-![2-1](https://github.com/inotia00/revanced-documentation/assets/108592928/1c3f3f4c-5bc6-4acc-b7f2-cf73eb8d8eb9)
+![2-1](https://github.com/inotia00/revanced-documentation/blob/main/images/rvx_manager_2.png)
 
 If you are building YouTube or YouTube Music in a ROOT environment, click the card for the application you installed.
 
 ### 4-2. In other cases
 
-![2-2](https://github.com/inotia00/revanced-documentation/assets/108592928/5c901167-2897-4309-975f-d50c2764760a)
+![2-2](https://github.com/inotia00/revanced-documentation/blob/main/images/rvx_manager_3.png)
 
 If you want to build Reddit, or YouTube(NON-ROOT) or YouTube Music(NON-ROOT),
 Click the 'Storage' button at the bottom right and select the APK downloaded from APKMirror.
@@ -72,7 +71,7 @@ Click the 'Storage' button at the bottom right and select the APK downloaded fro
 
 ### 5. Click `Selected patches` and include or exclude the patches you want
 
-![5](https://github.com/inotia00/revanced-documentation/assets/108592928/810f069f-fd10-42f8-9244-6bc0dcac6f25)
+![5](https://github.com/inotia00/revanced-documentation/blob/main/images/rvx_manager_4.png)
 
 - If you don't know what to decide, just click the `Default` button
 
