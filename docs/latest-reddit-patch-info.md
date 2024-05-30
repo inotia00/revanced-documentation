@@ -1,12 +1,13 @@
-About
-==
+# About patching Reddit versions 2024.18.0+
+---
+
 Starting from Reddit 2024.18.0, [APKTool does not support decoding due to resource obfuscation.](https://github.com/ReVanced/revanced-patches/issues/3099)
 
 Currently, the only workaround is to use ARSCLib to skip decoding of obfuscated resources.
 
-There has been a lot of discussion about ARSCLib support, but currently ARSCLib support is in the development stage.
+There has been a lot of discussion about ARSCLib support, but currently, ARSCLib support is in the development stage.
 
-Fortunately, I had saved the code testing the ARSCLib branch last year locally, and was able to restore it and prepare a patch targeting Reddit 2024.18.0+.
+Fortunately, I had locally saved the code testing the ARSCLib branch last year, and was able to restore it and prepare a patch targeting Reddit 2024.18.0+.
 
 Currently, only the CLI method is available.
 
