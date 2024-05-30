@@ -1,87 +1,89 @@
-Options: Information about the patch
+# Information about the patches
 
-==
+---
 
-### [YouTube](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-comgoogleandroidyoutube)
+The patch list for each app can be found using these links: 
 
-### [YouTube Music](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-comgoogleandroidappsyoutubemusic)
+[**YouTube**](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-comgoogleandroidyoutube)
 
-Patches that need to be included or excluded depending on the situation
+[**YouTube Music**](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-comgoogleandroidappsyoutubemusic)
 
-==
+[**Reddit**](https://github.com/inotia00/revanced-patches/tree/revanced-extended?tab=readme-ov-file#-comredditfrontpage)
 
-### If you want the ROOT version:
 
-- Don't Select GmsCore support
+
+## Patches that need to be included or excluded depending on the situation:
+
+---
+
+### If you want the ROOT YouTube/YT Music version:
+
+- Exclude the `GmsCore support` patch.
 
 Using CLI: `-e "GmsCore support"`
 
-### If you want Custom App Icon:
+### If you want a custom app icon:
 
-- Select Custom Branding Icon YouTube / Custom Branding Icon YouTube Music
+- Include the `Custom branding icon YouTube` / `Custom branding icon YouTube Music` patch.
 
-Using CLI: `-i "Custom branding icon YouTube"` `-i "Custom branding icon YouTube Music"`
+Using CLI: `-i "Custom branding icon YouTube"` / `-i "Custom branding icon YouTube Music"`
 
-※ You can change the app icon directly by opening `options.json` in an editor. (Available values: `MMT`, `Revancify Blue`, `Revancify Red`, and you can also enter the absolute path where the icon file exists.)
+※ You can choose the custom icon by opening `options.json` in an editor. (Available values: `MMT`, `Revancify Blue`, `Revancify Red`, or you can enter the absolute path where the icon file exists.)
 
-### If you want Original App Icon:
+### If you want the official app icon:
 
-- Don't Select Custom Branding Icon YouTube / Custom Branding Icon YouTube Music
+- Exclude the `Custom branding icon YouTube` / `Custom branding icon YouTube Music` patch.
 
-Using CLI: `-e "Custom branding icon YouTube"` `-e "Custom branding icon YouTube Music"`
+Using CLI: `-e "Custom branding icon YouTube"` / `-e "Custom branding icon YouTube Music"`
 
-### If you want Custom App Name:
+### If you want a custom app name:
 
-- Select Custom Branding Name YouTube / Custom Branding Name YouTube Music
+- Include the `Custom branding name YouTube` / `Custom branding name YouTube Music` / `Custom branding name Reddit` patch.
 
-Using CLI: `-i "Custom branding name YouTube"` `-i "Custom branding name YouTube Music"`
+Using CLI: `-i "Custom branding name YouTube"` / `-i "Custom branding name YouTube Music"` / `-i "Custom branding name Reddit"`
 
-※ You can change the app name directly by opening `options.json` in an editor. (Default: ReVanced Extended)
+※ You can choose the custom app name by opening `options.json` in an editor. (Default: ReVanced Extended)
 
-### If you want Original App Name:
+### If you want the official app name:
 
-- Don't Select Custom Branding Name YouTube / Custom Branding Name YouTube Music
+- Exclude the `Custom branding name YouTube` / `Custom branding name YouTube Music` / `Custom branding name Reddit` patch.
 
-Using CLI: `-e "Custom branding name YouTube"` `-e "Custom branding name YouTube Music"`
+Using CLI: `-e "Custom branding name YouTube"` / `-e "Custom branding name YouTube Music"` / `-e "Custom branding name Reddit"`
 
-### If you want Stock YouTube Theme:
+### If you want the standard YouTube theme:
 
-- Don't Select Theme
-
-- Don't Select MaterialYou
+- Exclude the `Theme` and `MaterialYou` patches.
 
 Using CLI: `-e "Theme" -e "MaterialYou"`
 
-### If you want Custom Themes:
+### If you want a custom YouTube theme:
 
-(Custom Light Theme + Custom Dark theme)
+(Custom light theme + Custom dark theme)
 
-- Select Theme
+- Include the `Theme` patch.
 
-- Don't Select MaterialYou
-
-※ You can change the theme colors directly by opening `options.json` in an editor and specifying a HEX color. (Default dark theme: Amoled Black)
+- Exclude the `MaterialYou` patch.
 
 Using CLI: `-i "Theme" -e "MaterialYou"`
 
-### If you want MaterialYou Theme (Only for Android 12+):
+※ You can choose the custom theme colors by opening `options.json` in an editor and specifying the HEX colors. (Default dark theme: Amoled Black)
 
-(Material Light Theme + Material Dark Theme)
+### If you want a MaterialYou theme in YouTube (only on Android 12+):
 
-- Don't Select Theme
+(MaterialYou light theme + MaterialYou dark theme)
 
-- Select MaterialYou
+- Exclude the `Theme` patch.
+
+- Include the `MaterialYou` patch.
 
 Using CLI: `-e "Theme" -i "MaterialYou"`
 
-### If you want MaterialYou Theme (Only for Android 12+) + Custom Dark Theme:
+### If you want a MaterialYou theme + Custom dark theme in YouTube (only on Android 12+):
 
-(Material Light Theme + Custom Dark Theme)
+(Material light theme + Custom dark theme)
 
-- Select Theme
-
-- Select MaterialYou
-
-※ You can change the dark theme color directly by opening `options.json` in an editor and specifying a HEX color. (Default: Amoled Black)
+- Include the `Theme` and `MaterialYou` patches.
 
 Using CLI: `-i "Theme" -i "MaterialYou"`
+
+※ You can choose the custom dark theme color by opening `options.json` in an editor and specifying the HEX color. (Default dark theme: Amoled Black)
