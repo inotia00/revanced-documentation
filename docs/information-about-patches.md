@@ -7,7 +7,7 @@ The patch list for each app can be found using these links:
 
 [**YouTube Music**](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-comgoogleandroidappsyoutubemusic)
 
-[**Reddit**](https://github.com/inotia00/revanced-patches/tree/revanced-extended?tab=readme-ov-file#-comredditfrontpage)
+[**Reddit**](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-comredditfrontpage)
 
 
 
