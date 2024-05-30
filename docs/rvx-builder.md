@@ -8,22 +8,21 @@ Common
 ​
 ### 1. Check the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of revanced-patches for supported versions
 
-![support_version_youtube](https://github.com/inotia00/revanced-documentation/assets/108592928/e5667f35-70db-4230-afda-f2c35277539f)
+![support_version_youtube](https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_youtube.png)
 
 → YouTube
 
-![support_version_music](https://github.com/inotia00/revanced-documentation/assets/108592928/00fa30c0-795b-473f-87b2-1940b8a22103)
+![support_version_music](https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_youtube_music.png)
 
 → YouTube Music
 
-![support_version_reddit](https://github.com/inotia00/revanced-documentation/assets/108592928/760ee145-a581-4ce9-bd81-20bbd945d8f0)
+![support_version_reddit](https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_reddit.png)
 
 → Reddit
 
-
 ### 2. Download the supported version of YouTube / YouTube Music from APKMirror and **_install it on your device._**
 
-![APKMIRROR](https://github.com/inotia00/revanced-documentation/assets/108592928/7ae93e7a-34f9-4780-8ce9-6c1e4da2ab31)
+![APKMIRROR](https://github.com/inotia00/revanced-documentation/blob/main/images/apkmirror_youtube.png)
 
 ※ You must download the `nodpi` version.
 
