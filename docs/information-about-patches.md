@@ -1,6 +1,5 @@
-# Information about the patches
-
----
+Information about the patches
+==
 
 The patch list for each app can be found using these links: 
 
@@ -12,9 +11,8 @@ The patch list for each app can be found using these links:
 
 
 
-## Patches that need to be included or excluded depending on the situation:
-
----
+Patches that need to be included or excluded depending on the situation:
+==
 
 ### If you want the ROOT YouTube/YT Music version:
 
