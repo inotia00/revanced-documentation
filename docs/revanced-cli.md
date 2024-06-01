@@ -47,10 +47,7 @@ java -jar revanced-cli-all.jar patch \
 
 ## ROOT installations
 
-**1. Make sure your phone is connected to ADB:**
-```
-adb shell exit
-```
+**1. Make sure your phone is connected to ADB**
 
 **2. Check if you have root access:**
 ```
