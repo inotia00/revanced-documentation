@@ -12,7 +12,7 @@ ___
   - [Method 1. Using ReVanced CLI (PC)](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md)
     - [Downloading prebuilt packages](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md#downloading-the-packages)
     - [Using ReVanced CLI (PC)](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md#using-revanced-cli-pc)
-  - [Method 2. Using RVX Builder (Windows, MacOS, Linux, Android)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder.md)
+  - [Method 2. Using RVX Builder (PC, Android)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder.md)
     - [Using RVX Builder (Windows, MacOS, Linux)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder.md#using-rvx-builder-windows--macos--linux)
     - [Using RVX Builder (Android - termux)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder.md#using-rvx-builder-android---termux)
   - [Method 3. Using RVX Manager (Android)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-manager.md)
