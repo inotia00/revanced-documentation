@@ -5,19 +5,21 @@ Requirements
 
 **PC:**
 - x86/x86_64 host architecture
-- Zulu JDK 17
+- [Zulu JDK 17](https://www.azul.com/downloads/?version=java-17-lts&package=jdk#zulu)
 - ADB (only required for ROOT installations)
 
 
-Downloading the packages
+Preparing the packages
 ==
 
 1. Follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md) to supply an APK to patch.
 
 2. Download the following packages to your PC:
 - [ReVanced CLI](https://github.com/inotia00/revanced-cli/releases/latest)
-- [ReVanced Patches](https://github.com/inotia00/revanced-patches/releases/latest)
+- [ReVanced Patches](https://github.com/inotia00/revanced-patches/releases/latest) (`.jar`file)
 - [ReVanced Integrations](https://github.com/inotia00/revanced-integrations/releases/latest)
+
+3. (Optional): For simplicity, place the APK you downloaded from APKMirror and the packages you downloaded in a folder named `revanced-extended`.
 
 
 Using ReVanced CLI (PC)
@@ -32,18 +34,17 @@ Using ReVanced CLI (PC)
 - The option '-e' allows you to exclude patches. (e.g. `-e "Theme"` ...)
 - The option '-i' allows you to include patches. (e.g. `-i "MaterialYou"` `-i "GmsCore support"` ...)
 
-
 ```
 java -jar revanced-cli-all.jar patch \
- -c \
- -o revanced.apk \
- -m app-release-unsigned.apk \
- -r revanced-resource-cache \
- --options options.json \
  -b revanced-patches.jar \
- youtube.apk
-
+ -m revanced-integrations.apk \
+ --options options.json \
+ -p \
+ -o revanced-extended.apk \
+ input.apk
 ```
+
+After patching is complete, install `revanced-extended.apk` from the `revanced-extended` folder to your Android device.
 
 ## ROOT installations
 
@@ -61,15 +62,12 @@ adb devices
 
 > **If you haven't done so already, install YouTube / YouTube Music on your device:**
 > ```
-> adb install -r youtube.apk
-> ```
-> ```
-> adb install -r youtube-music.apk
+> adb install -r input.apk
 > ```
 
 **4. Running the CLI:**
 
-- For YouTube, use the option '--rip-lib' to remove unwanted architectures. (e.g. `--rip-lib=x86 --rip-lib=x86_64` ...)
+- For YouTube (and Reddit), use the option '--rip-lib' to remove unwanted architectures. (e.g. `--rip-lib=x86 --rip-lib=x86_64` ...)
 - For ROOT installs, you must exclude the 'GmsCore support' patch using the option '-e'.
 - The option '-e' allows you to exclude patches. (e.g. `-e "GmsCore support"` `-e "Theme"` ...)
 - The option '-i' allows you to include patches. (e.g. `-i "MaterialYou"` ...)
@@ -78,15 +76,14 @@ adb devices
 
 ```
 java -jar revanced-cli-all.jar patch \
- -c \
  -d device-name \
- -o revanced.apk \
- -m app-release-unsigned.apk \
- -r revanced-resource-cache \
- --options options.json \
  -b revanced-patches.jar \
+ -m revanced-integrations.apk \
+ --options options.json \
+ -p \
  -e "GmsCore support" \
  --mount \
- youtube.apk
+ -o revanced-extended.apk \
+ input.apk
 
 ```
