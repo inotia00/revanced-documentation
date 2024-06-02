@@ -85,5 +85,4 @@ java -jar revanced-cli-all.jar patch \
  --mount \
  -o revanced-extended.apk \
  input.apk
-
 ```
