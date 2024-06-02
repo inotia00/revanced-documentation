@@ -12,7 +12,7 @@ Requirements
 Preparing the packages
 ==
 
-1. Follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md) to supply an APK to patch.
+1. Follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md) to supply and prepare an APK to patch.
 
 2. Download the following packages to your PC:
 - [ReVanced CLI](https://github.com/inotia00/revanced-cli/releases/latest)
@@ -86,3 +86,4 @@ java -jar revanced-cli-all.jar patch \
  -o revanced-extended.apk \
  input.apk
 ```
+> I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from Google Playstore, which prevents crashes from occurring in the ROOT environment.
