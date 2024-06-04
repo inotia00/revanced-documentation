@@ -27,7 +27,7 @@ After Revancify is installed, type `revancify` in Termux and press `Enter` to ru
    
 > It can also be ran with arguments. See the available arguments with `revancify -h` or `revancify --help`.  
 
-> You can also use my shortcut quickly open Revancify. Find out more [here](https://github.com/inotia00/RevancifyShortcut?tab=readme-ov-file#shortcut-for-revancify).
+> You can also use my shortcut to quickly open Revancify. Find out more [here](https://github.com/inotia00/RevancifyShortcut?tab=readme-ov-file#shortcut-for-revancify).
 
 
 Patching
@@ -35,7 +35,7 @@ Patching
 
 1. From the Revancify menu, select `Change Source` and select `inotia00`. Then press `Done`.
 
-> If it is your first time running Revancify, the Change Source menu will open automatically upon installation. So just select `inotia00` and then press `Done`.
+> If it is your first time running Revancify, the Change Source menu will open automatically upon installation. So just select `inotia00` and press `Done`.
 
 2. Select `Fetch Tools` to download the latest patch files.
 
