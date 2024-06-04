@@ -66,3 +66,5 @@ The version will be downloaded and patching will begin.
 
 
 5. Install the patched APK when prompted.
+
+> For ROOT installations, I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from Google Playstore, which prevents crashes from occurring in the ROOT environment.
