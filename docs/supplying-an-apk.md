@@ -6,24 +6,25 @@ Check the JSON format in the [README.md](https://github.com/inotia00/revanced-pa
 
 YouTube:
 
-![support_version_youtube](https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_youtube.png)
+<img src="https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_youtube.png" alt="compatible_packages_youtube" width="400"/>
 
 
 YouTube Music:
 
-![support_version_music](https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_youtube_music.png)
+<img src="https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_youtube_music.png" alt="compatible_packages_youtube_music" width="400"/>
 
 
 Reddit:
 
-![support_version_reddit](https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_reddit.png)
+<img src="https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_reddit.png" alt="compatible_packages_reddit" width="400"/>
 
 
 ### 2. Download a supported version of YouTube / YouTube Music / Reddit
 
 Go to [apkmirror.com](https://www.apkmirror.com/) and download a supported version of the app you want to patch.
 
-![APKMIRROR](https://github.com/inotia00/revanced-documentation/blob/main/images/apkmirror_youtube.png)
+<img src="https://github.com/inotia00/revanced-documentation/blob/main/images/apkmirror_youtube.png" alt="apkmirror_youtube" width="700"/>
+
 
 You must download the `nodpi` variant, and the architecture must be compatible with the device you plan to install the patched APK on.
 
