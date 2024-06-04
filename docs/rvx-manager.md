@@ -16,21 +16,23 @@ Using RVX Manager
 
 3. Launch RVX Manager, click `Patcher` and then `Select an application`.
 
-![1](https://github.com/inotia00/revanced-documentation/blob/main/images/rvx_manager_1.png)
+<img src="https://github.com/inotia00/revanced-documentation/blob/main/images/rvx_manager_1.png" alt="rvx_manager_1" width="400"/>
 
 
 4. (Non-ROOT installations): Click the `Storage` button at the bottom right and select the APK downloaded from APKMirror.
 
-![2](https://github.com/inotia00/revanced-documentation/blob/main/images/rvx_manager_2.png)
+<img src="https://github.com/inotia00/revanced-documentation/blob/main/images/rvx_manager_2.png" alt="rvx_manager_2" width="400"/>
+
 
 4. (ROOT installations): Click the card for the application you installed.
 
-![3](https://github.com/inotia00/revanced-documentation/blob/main/images/rvx_manager_3.png)
+<img src="https://github.com/inotia00/revanced-documentation/blob/main/images/rvx_manager_3.png" alt="rvx_manager_3" width="400"/>
 
 
 5. Click `Selected patches` and include or exclude the patches you want.
 
-![4](https://github.com/inotia00/revanced-documentation/blob/main/images/rvx_manager_4.png)
+<img src="https://github.com/inotia00/revanced-documentation/blob/main/images/rvx_manager_4.png" alt="rvx_manager_4" width="400"/>
+
 
 - Read [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude. Otherwise, just click the `Default` button.
 
