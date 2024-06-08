@@ -12,7 +12,7 @@ ___
   - [Method 1. Using ReVanced CLI (PC)](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md)
     - [Downloading prebuilt packages](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md#downloading-the-packages)
     - [Using ReVanced CLI (PC)](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md#using-revanced-cli-pc)
-  - [Method 2. Using RVX Builder (Windows, MacOS, Linux, Android)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder.md)
+  - [Method 2. Using RVX Builder (PC, Android)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder.md)
     - [Using RVX Builder (Windows, MacOS, Linux)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder.md#using-rvx-builder-windows--macos--linux)
     - [Using RVX Builder (Android - termux)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder.md#using-rvx-builder-android---termux)
   - [Method 3. Using RVX Manager (Android)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-manager.md)
@@ -39,6 +39,9 @@ ___
         <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032351-9d9d5619-8ef7-470a-9eec-2744ece54553.png" />
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/revanced_extended">
+        <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/revanced_extended_chat">
         <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/revanced_extended_repo">
