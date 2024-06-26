@@ -13,8 +13,8 @@ Currently, only the CLI method is available.
 
 Downloading the packages
 ==
-- [ReVanced CLI/ARSCLib](https://github.com/inotia00/revanced-cli/releases/tag/v2.21.2-arsclib)
-- [ReVanced Patches/ARSCLib](https://github.com/inotia00/revanced-patches/releases/tag/v2.175.1-arsclib)
+- [ReVanced CLI/ARSCLib](https://github.com/inotia00/revanced-cli-arsclib/releases/latest)
+- [ReVanced Patches/ARSCLib](https://github.com/inotia00/revanced-patches-arsclib/releases/latest)
 - [ReVanced Integrations](https://github.com/inotia00/revanced-integrations/releases/latest)
 
 Using ReVanced CLI (PC)
