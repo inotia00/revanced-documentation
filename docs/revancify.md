@@ -65,7 +65,7 @@ From the Version Selection Menu, choose the `Auto Select` option or a version la
 
 The version will be downloaded and patching will begin.
 
-> [!TIP]
+> [!NOTE]
 > If the download feature doesn't work, follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md). Then return to Revancify and press `From Storage` to select the APK you downloaded from APKMirror.
 >
 > <img src="https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_4.png" alt="revancify_4" width="400"/>
