@@ -36,6 +36,7 @@ Using RVX Manager
 
 - Read [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude. Otherwise, just click the `Default` button.
 
+> [!NOTE]
 > For ROOT YouTube / YouTube Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installation, the patch must be included.
 
 - When satisfied with your patch selection, click the `Done` button, and then the `Patch` button. 
@@ -43,4 +44,5 @@ Using RVX Manager
 
 6. Install the patched APK.
 
+> [!TIP]
 > For ROOT installations, I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from Google Playstore, which prevents crashes from occurring in the ROOT environment.
