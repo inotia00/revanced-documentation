@@ -31,7 +31,7 @@ Using ReVanced CLI (PC)
 ```
 java -jar revanced-cli-all.jar \
  -a input.apk \
- -o output \
+ -o output-folder \
  -m revanced-integrations.apk \
  --options options.json \
  -b revanced-patches.jar
