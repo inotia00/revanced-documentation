@@ -2,7 +2,8 @@
 
 Check the JSON format in the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of the revanced-patches repository to see which app versions are supported.
 
-> Note that the screenshots below often do **not** show the currently supported versions. They only demonstrate which sections of the JSON shows the supported versions for each app. Check the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) to see the currently supported versions.
+> [!NOTE]
+> The screenshots below usually do **not** show the currently supported versions. They only demonstrate which sections of the JSON shows the supported versions for each app. Check the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) to see the currently supported versions.
 
 YouTube:
 
@@ -28,13 +29,13 @@ Go to [apkmirror.com](https://www.apkmirror.com/) and download a supported versi
 
 You must download the `nodpi` variant, and the architecture must be compatible with the device you plan to install the patched APK on.
 
-
-> #### If you are patching Reddit:
+> [!NOTE]
+> ### If you are patching Reddit:
 >
 > Do not install the Reddit APK you downloaded from APKMirror (even if installing in a ROOT environment).
 
-
-> #### If you are preparing to install in a **ROOT environment**:
+> [!NOTE]
+> ### If you are preparing to install in a **ROOT environment**:
 >
 > 1. Remove all YouTube related modules.
 > 2. Remove the following directories: `/data/adb/service.d`, `/data/adb/post-fs-data.d`, `/data/adb/revanced`
