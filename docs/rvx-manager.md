@@ -1,7 +1,7 @@
 Requirements
 ==
 
-- Your device must use the arm64-v8a architecture.
+- Your device's architecture must be arm64-v8a, armeabi-v7a, or x86-64.
 - Your device must be running Android 8+.
 
 
