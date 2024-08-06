@@ -37,7 +37,7 @@ Using RVX Manager
 - Read [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude. Otherwise, just click the `Default` button.
 
 > [!IMPORTANT]
-> For ROOT YouTube / YouTube Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installations, the patch must be included.
+> For ROOT YouTube / YT Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installations, the patch must be included.
 
 - When satisfied with your patch selection, click the `Done` button, and then the `Patch` button. 
 
