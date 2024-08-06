@@ -1,66 +1,97 @@
-How to install rvx-builder for the first time
+Installing RVX Builder for the first time
 ==
-1. Firstly, you have to install Termux. To do this, you have to install [F-Droid](https://f-droid.org/packages/com.termux/).
 
-2. After that, you have to run these commands:
+1. Install [Termux Monet](https://github.com/HardcodedCat/termux-monet/releases/latest) or [Termux](https://github.com/termux/termux-app/releases/latest).
+
+2. Open Termux and run these commands:
 
 ```
 curl -sLo rvx-builder.sh https://raw.githubusercontent.com/inotia00/rvx-builder/revanced-extended/android-interface.sh && chmod +x rvx-builder.sh && ./rvx-builder.sh
 ```
 
-※ If an error occurs, enter it line by line: 
-```
-curl -sLo rvx-builder.sh https://raw.githubusercontent.com/inotia00/rvx-builder/revanced-extended/android-interface.sh
-```
-```
-chmod +x rvx-builder.sh
-```
-```
-./rvx-builder.sh
-```
+> [!TIP]
+>
+> If an error occurs, enter it line by line: 
+>
+> ```
+> curl -sLo rvx-builder.sh https://raw.githubusercontent.com/inotia00/rvx-builder/revanced-extended/android-interface.sh
+> ```
+> ```
+> chmod +x rvx-builder.sh
+> ```
+> ```
+> ./rvx-builder.sh
+> ```
 
-※ During initial installation, termux will ask if you want to update additional packages. (Enter Y or N.)
+> [!NOTE]
+>
+> During initial installation, Termux may ask if you want to update additional packages. (Enter `Y` or `N`.)
 
-3. After installing, `rvx-builder` will run automatically!
+3. After installing, rvx-builder will run automatically.
 
-Run command
+> [!IMPORTANT]
+>
+> To run rvx-builder in the future, run either of these commands in Termux:
+>
+> ```
+> rvx
+> ```
+> or
+> ```
+> ./rvx-builder.sh run
+> ```
+
+4. A GUI will open in your browser. Click `Start patching`. After the dependencies are downloaded, click `Continue`.
+
+5. Select the app you want to patch, or upload the APK.
+
+6. Select the patches you want to include.
+
+- Read [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude. Otherwise, just click the `Select All` button to select all Default patches.
+
+> [!IMPORTANT]
+> For ROOT YouTube / YT Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installations, the patch must be included.
+
+7. If you did not upload an APK in step 3, a menu will appear where you can choose the version of the app to patch. Select the first option, marked `(AUTO SELECTION)`, or select a version marked as `(suggested)`. After the APK is downloaded, click `Continue`.
+
+8. After patching is complete, install the patched APK saved to your device. The path of the APK will be displayed at the bottom of the patch log.
+
+> [!NOTE]
+> ### If you are preparing to install in a ROOT environment:
+>
+> Follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md) to prepare the environment for a mount installation. Note that the APK from APKMirror that you install must be the same version as the APK that was patched.
+
+
+Additional info
 ==
-When to run rvx-builder in termux, just type these commands:
-```
-./rvx-builder.sh run
-```
-or
-```
-rvx
-```
 
-Update command
-==
-If there is an update of rvx-builder, just type these commands:
-```
-./rvx-builder.sh update && ./rvx-builder.sh run
-```
-or
+### Updating rvx-builder:
+
+To update rvx-builder, run either of these commands in Termux:
 ```
 rvxup
 ```
-
-Reinstall command
-==
-When an issue occurs so you need to reinstall rvx-builder, just type these commands:
+or
 ```
-./rvx-builder.sh reinstall && ./rvx-builder.sh run
+./rvx-builder.sh update && ./rvx-builder.sh run
+```
+
+### Reinstalling rvx-builder:
+==
+To reinstall rvx-builder, run either of these commands in Termux:
+```
+rvxre
 ```
 or
 ```
-rvxre
+./rvx-builder.sh reinstall && ./rvx-builder.sh run
 ```
 
 Troubleshooting
 ==
 1. If you get an error when installing rvx-builder for the first time
-- Check if termux is downloaded from [F-Droid](https://f-droid.org/packages/com.termux/).
-- Try reinstalling termux
+- Check if Termux is downloaded from [F-Droid](https://f-droid.org/packages/com.termux/).
+- Try reinstalling Termux
 - Try changing vpn/dns
 - Try entering the following command:
 ```
@@ -75,7 +106,7 @@ apt-get autoremove nodejs-lts -y && pkg install nodejs-lts -y && apt-get autorem
 
 3. If an issue occurs during the patching process
 - Read the [Common document](https://github.com/inotia00/revanced-documentation/wiki/Before-start-(Prerequisites)#common) again.
-- Make sure termux has battery optimization exclusions.
+- Make sure Termux has battery optimization exclusions.
 - Make sure your device has `arm64-v8a` architecture. (Probably, other architectures are not supported.)
 - reinstall rvx-builder:
 ```
