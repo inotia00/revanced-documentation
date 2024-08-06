@@ -35,7 +35,7 @@ You must download the `nodpi` variant, and the architecture must be compatible w
 > Do not install the Reddit APK you downloaded from APKMirror (even if installing in a ROOT environment).
 
 > [!NOTE]
-> ### If you are preparing to install in a **ROOT environment**:
+> ### If you are preparing to install in a ROOT environment:
 >
 > 1. Remove all YouTube related modules.
 > 2. Remove the following directories: `/data/adb/service.d`, `/data/adb/post-fs-data.d`, `/data/adb/revanced`

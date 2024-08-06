@@ -51,7 +51,7 @@ Patching
 - Read [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude. Otherwise, just click the `Recommended` button.
 
 > [!IMPORTANT]
-> For ROOT YouTube / YouTube Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installation, the patch must be included.
+> For ROOT YouTube / YouTube Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installations, the patch must be included.
 
 <img src="https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_2.png" alt="revancify_2" width="400"/>
 
