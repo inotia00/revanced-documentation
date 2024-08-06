@@ -38,6 +38,6 @@ Using RVX Builder (Windows / MacOS / Linux)
 
 
 
-Using RVX Builder (Android - termux)
+RVX Builder for Android (Termux)
 ==
-- [How to use rvx builder on Android](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder.md)
+- [How to use rvx builder on Android](https://github.com/inotia00/revanced-documentation/blob/rvx-builder/docs/rvx-builder%20(android).md)
