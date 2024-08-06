@@ -1,5 +1,5 @@
 About Revancify
-=
+==
 
 Revancify is a tool for building ReVanced in Termux. It is developed by [@decipher3114](https://github.com/decipher3114). Visit the [Revancify repository](https://github.com/decipher3114/Revancify) for more info.
 
@@ -34,7 +34,7 @@ After Revancify is installed, type `revancify` in Termux and press `Enter` to ru
 
 
 Patching
-=
+==
 
 1. From the Revancify menu, select `Change Source` and select `inotia00`. Then, press `Done`.
 
