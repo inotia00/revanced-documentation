@@ -24,6 +24,18 @@ RVX-Builder (PC)
 > The `(AUTO SELECTION)` feature does not work when ARSClib is used. Be sure to select a Reddit version that is marked as `(suggested)`.
 
 
+RVX-Builder (Android - Termux)
+==
+
+1. Install rvx-builder in Termux and run it as described in [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#installing-rvx-builder-for-the-first-time).
+
+2. A GUI will open in your browser. Open the rvx-builder settings and enable the `ARSClib` toggle. Then, press `Home` and patch a Reddit APK. Refer to this [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#using-rvx-builder-termux) for more details.
+
+> [!NOTE]
+>
+> The `(AUTO SELECTION)` feature does not work when ARSClib is used. Be sure to select a Reddit version that is marked as `(suggested)`.
+
+
 ReVanced CLI (PC)
 ==
 
