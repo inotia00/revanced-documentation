@@ -60,7 +60,7 @@ adb shell su -c exit
 adb devices
 ```
 
-> **If you haven't done so already, install YouTube / YouTube Music on your device:**
+> **If you haven't done so already, install YouTube / YT Music on your device:**
 > ```
 > adb install -r input.apk
 > ```

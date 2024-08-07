@@ -1,5 +1,5 @@
 About Revancify
-=
+==
 
 Revancify is a tool for building ReVanced in Termux. It is developed by [@decipher3114](https://github.com/decipher3114). Visit the [Revancify repository](https://github.com/decipher3114/Revancify) for more info.
 
@@ -34,9 +34,9 @@ After Revancify is installed, type `revancify` in Termux and press `Enter` to ru
 
 
 Patching
-=
+==
 
-1. From the Revancify menu, select `Change Source` and select `inotia00`. Then press `Done`.
+1. From the Revancify menu, select `Change Source` and select `inotia00`. Then, press `Done`.
 
 > [!NOTE]
 > If it is your first time running Revancify, the Change Source menu will open automatically upon installation. So just select `inotia00` and press `Done`.
@@ -51,7 +51,7 @@ Patching
 - Read [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude. Otherwise, just click the `Recommended` button.
 
 > [!IMPORTANT]
-> For ROOT YouTube / YouTube Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installation, the patch must be included.
+> For ROOT YouTube / YT Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installations, the patch must be included.
 
 <img src="https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_2.png" alt="revancify_2" width="400"/>
 
@@ -66,7 +66,7 @@ From the Version Selection Menu, choose the `Auto Select` option or a version la
 The version will be downloaded and patching will begin.
 
 > [!NOTE]
-> If the download feature doesn't work, follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md). Then return to Revancify and press `From Storage` to select the APK you downloaded from APKMirror.
+> If the download feature doesn't work, follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md). Then, return to Revancify and press `From Storage` to select the APK you downloaded from APKMirror.
 >
 > <img src="https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_4.png" alt="revancify_4" width="400"/>
 

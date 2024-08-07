@@ -20,7 +20,7 @@ Reddit:
 <img src="https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_reddit.png" alt="compatible_packages_reddit" width="400"/>
 
 
-### 2. Download a supported version of YouTube / YouTube Music / Reddit
+### 2. Download a supported version of YouTube / YT Music / Reddit
 
 Go to [apkmirror.com](https://www.apkmirror.com/) and download a supported version of the app you want to patch.
 
@@ -40,4 +40,4 @@ You must download the `nodpi` variant, and the architecture must be compatible w
 > 1. Remove all YouTube related modules.
 > 2. Remove the following directories: `/data/adb/service.d`, `/data/adb/post-fs-data.d`, `/data/adb/revanced`
 > 3. Reboot device. 
-> 4. Install the YouTube / YouTube Music APK you downloaded from APKMirror. 
+> 4. Install the YouTube / YT Music APK you downloaded from APKMirror. 
