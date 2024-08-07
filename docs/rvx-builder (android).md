@@ -98,7 +98,7 @@ Troubleshooting
 
 - Ensure that Termux is not the Play Store version of Termux
 - Try reinstalling Termux
-- Try changing networks, disable VPN and adblockers, etc.
+- Try changing networks and disabling any VPN / adblockers, etc.
 - Try entering the following command:
 ```
 apt-get autoremove nodejs-lts -y && pkg install nodejs-lts -y && apt-get autoremove openjdk-17 -y && pkg install openjdk-17 -y && ./rvx-builder.sh run
