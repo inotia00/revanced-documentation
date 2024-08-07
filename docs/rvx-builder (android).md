@@ -96,7 +96,7 @@ Troubleshooting
 ==
 **1. If encountering an error when installing rvx-builder for the first time:**
 
-- Ensure that Termux is not the Play Store version of Termux.
+- Ensure that Termux is not the Play Store version of Termux
 - Try reinstalling Termux
 - Try changing networks, disable VPN and adblockers, etc.
 - Try entering the following command:
@@ -117,7 +117,7 @@ rvxre
 
 **3. If an issue occurs during the patching process:**
 
-- Ensure that Termux has battery optimization exclusions.
+- Ensure that Termux has battery optimization exclusions
 - Reinstall rvx-builder with the following command:
 ```
 ./rvx-builder.sh reinstall && ./rvx-builder.sh run
