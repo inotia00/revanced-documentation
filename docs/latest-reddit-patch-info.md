@@ -9,7 +9,7 @@ There has been a lot of discussion about ARSCLib support, but currently, ARSCLib
 
 Fortunately, I had locally saved the code testing the ARSCLib branch last year, and was able to restore it and prepare a patch targeting Reddit 2024.18.0+.
 
-Currently, only the rvx-builder (PC) and CLI support ARSClib. Below are instructions for both.
+Currently, only the rvx-builder and CLI support ARSClib. Below are instructions for both.
 
 
 RVX-Builder (PC)
