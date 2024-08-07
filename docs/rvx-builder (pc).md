@@ -38,4 +38,4 @@ Using RVX Builder (Windows / MacOS / Linux)
 
 
 ___
-- [How to use rvx-builder on Android](https://github.com/inotia00/revanced-documentation/blob/rvx-builder/docs/rvx-builder%20(android).md)
+- [How to use rvx-builder on Android](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md)

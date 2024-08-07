@@ -14,7 +14,7 @@ ___
   - [Method 2. Revancify (Android - Termux)](https://github.com/inotia00/revanced-documentation/blob/main/docs/revancify.md)
     - [Installing Revancify](https://github.com/inotia00/revanced-documentation/blob/main/docs/revancify.md#installing-revancify-for-the-first-time)
     - [Using Revancify](https://github.com/inotia00/revanced-documentation/blob/main/docs/revancify.md#patching)
-  - [Method 3. RVX Builder (PC)]()
+  - [Method 3. RVX Builder (PC)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(pc).md)
     - [Requirements](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(pc).md#requirements)
     - [Using RVX Builder (PC)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(pc).md#using-rvx-builder-windows--macos--linux)
   - [Method 4. RVX Builder (Android - Termux)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md)
