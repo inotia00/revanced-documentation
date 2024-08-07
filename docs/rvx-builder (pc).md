@@ -3,6 +3,13 @@ Requirements
 
 - An Android 8+ device (to install the patched APK on)
 
+> [!NOTE]
+> ### If you are preparing to install in a ROOT environment:
+>
+> Follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md) to prepare the device for a mount installation. Note that the APK from APKMirror that you install must be the same version as the APK you will patch.
+>
+> You will also need your Android device connected to your PC via ADB.
+
 
 Using RVX Builder (Windows / MacOS / Linux)
 ==
@@ -22,22 +29,13 @@ Using RVX Builder (Windows / MacOS / Linux)
 - Read [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude. Otherwise, just click the `Select All` button to select all Default patches.
 
 > [!IMPORTANT]
+>
 > For ROOT YouTube / YT Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installations, the patch must be included.
 
-5. If you did not upload an APK in step 3, a menu will appear where you can choose the version of the app to patch. Select the first option, marked `(AUTO SELECTION)`, or select a version marked as `(suggested)`. After the APK is downloaded, click `Continue`.
+5. If you did not upload an APK in step 3, a menu will appear where you can choose the version of the app to patch. Select the first option, marked `(AUTO SELECTION)`, or select a version marked as `(suggested)`. After the APK is downloaded, click `Continue` and wait for patching to complete.
 
-6. After patching is complete, install the patched APK from the `revanced` folder to your Android device. The `revanced` folder will be in the same directory as the rvx-builder executable.
-
-> [!NOTE]
-> ### If you are preparing to install in a ROOT environment:
->
-> 1. Remove all YouTube related modules.
-> 2. Remove the following directories: `/data/adb/service.d`, `/data/adb/post-fs-data.d`, `/data/adb/revanced`
-> 3. Reboot device. 
-> 4. Install the unpatched YouTube / YT Music APK that is in the `revanced` folder before installing the patched APK.
+6. For non-ROOT installations, install the patched APK from the `revanced` folder to your Android device. TThe `revanced` folder will be in the same directory as the rvx-builder executable. For ROOT installations, the app will be mounted automatically. 
 
 
-
-RVX Builder for Android (Termux)
-==
-- [How to use rvx builder on Android](https://github.com/inotia00/revanced-documentation/blob/rvx-builder/docs/rvx-builder%20(android).md)
+___
+- [How to use rvx-builder on Android](https://github.com/inotia00/revanced-documentation/blob/rvx-builder/docs/rvx-builder%20(android).md)
