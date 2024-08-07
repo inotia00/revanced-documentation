@@ -20,7 +20,7 @@ ___
   - [Method 4. RVX Builder (Android - Termux)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md)
     - [Installing RVX Builder (Android)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#installing-rvx-builder-for-the-first-time)
     - [Using RVX Builder (Android)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#using-rvx-builder-termux)
-      - [Additionl info](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#additional-info)
+      - [Additional info](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#additional-info)
       - [Troubleshooting RVX Builder](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#troubleshooting)
   - [Method 5. ReVanced CLI (PC)](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md)
     - [Requirements](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md#requirements)
