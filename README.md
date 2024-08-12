@@ -66,6 +66,12 @@ ___
             <img height="24px" src="https://raw.githubusercontent.com/inotia00/revanced-documentation/main/images/platform-icons/telegram-logo.png" />
         </picture>
     </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://discord.gg/yMnc3EywRZ">
+        <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inotia00/revanced-documentation/main/images/platform-icons/discord-mark-blue.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/inotia00/revanced-documentation/main/images/platform-icons/discord-mark-blue.png" />
+        </picture>
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://crowdin.com/project/revancedextended">
         <picture>
             <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inotia00/revanced-documentation/main/images/platform-icons/crowdin-logo-white.png" />
