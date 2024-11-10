@@ -1,9 +1,6 @@
 Requirements
 ==
 
-- An Android 8+ device (to install the patched APK on)
-
-**PC:**
 - x86/x86_64 host architecture
 - [Zulu JDK 17](https://www.azul.com/downloads/?version=java-17-lts&package=jdk#zulu)
 - ADB (only required for ROOT installations)

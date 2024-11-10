@@ -1,8 +1,3 @@
-Requirements
-==
-
-- An Android 8+ device (to install the patched APK on)
-
 > [!NOTE]
 > ### If you are preparing to install in a ROOT environment:
 >
