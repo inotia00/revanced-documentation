@@ -67,7 +67,7 @@ or
 6. For non-ROOT installations, the patched APK will be saved to your device and it must be manually installed. The path to the APK will be displayed at the bottom of the patch log. For ROOT installations, the app will be mounted automatically.
 
 > [!TIP]
-> For ROOT installations, I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from the Google Play Store, which prevents crashes from occurring in the ROOT environment.
+> For ROOT installations, I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from the Google Play Store, which would cause crashes to occur in the ROOT environment.
 
 
 Additional info

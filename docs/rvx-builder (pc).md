@@ -37,7 +37,7 @@ Using RVX Builder (Windows / MacOS / Linux)
 6. For non-ROOT installations, install the patched APK from the `revanced` folder to your Android device. The `revanced` folder will be in the same directory as the rvx-builder executable. For ROOT installations, the app will be mounted automatically.
 
 > [!TIP]
-> For ROOT installations, I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from the Google Play Store, which prevents crashes from occurring in the ROOT environment.
+> For ROOT installations, I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from the Google Play Store, which would cause crashes to occur in the ROOT environment.
 
 
 ___
