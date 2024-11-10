@@ -95,6 +95,10 @@ or
 ./rvx-builder.sh reinstall && ./rvx-builder.sh run
 ```
 
+### Configuring `options.json`:
+
+Open `options.json` in an editor by running the `opon` command in Termux. After making the desired changes, enter `CTRL + X` to save and close the editor.
+
 Troubleshooting
 ==
 **1. If encountering an error when installing rvx-builder for the first time:**
