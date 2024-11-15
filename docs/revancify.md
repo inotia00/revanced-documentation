@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Revancify currently uses patcher v21, which the ReVanced Extended patches are not yet compatible with. Therefore, ReVanced Extended cannot be patched using Revancify at this time. Please see the [README](https://github.com/inotia00/revanced-documentation#readme) for a list of alternative patching methods.
+
 About Revancify
 ==
 
