@@ -27,7 +27,7 @@ curl -sL "https://raw.githubusercontent.com/decipher3114/Revancify/main/install.
 After Revancify is installed, type `revancify` in Termux and press `Enter` to run it.  
 
 > [!TIP]   
-> It can also be ran with arguments. See the available arguments with `revancify -h` or `revancify --help`.  
+> It can also be ran with arguments. See the available arguments with `revancify -h`.  
 
 > [!TIP]
 > You can also use my shortcut to quickly open Revancify. Find out more [here](https://github.com/inotia00/RevancifyShortcut?tab=readme-ov-file#shortcut-for-revancify).
