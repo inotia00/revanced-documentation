@@ -28,9 +28,6 @@ ___
   - [Supplement. Patch for latest Reddit](https://github.com/inotia00/revanced-documentation/blob/main/docs/latest-reddit-patch-info.md)
 - [Information about the patches](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md)
 
-> [!NOTE]
-> Patching with [Revancify](https://github.com/inotia00/revanced-documentation/blob/main/docs/revancify.md) is currently not possible because it uses patcher v21, which the ReVanced Extended patches are not yet compatible with.
-
 ___
 # Patch Information with Screenshots
 
