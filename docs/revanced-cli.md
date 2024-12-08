@@ -13,8 +13,7 @@ Preparing the packages
 
 2. Download the following packages to your PC:
 - [ReVanced CLI](https://github.com/inotia00/revanced-cli/releases/latest)
-- [ReVanced Patches](https://github.com/inotia00/revanced-patches/releases/latest) (`.jar`file)
-- [ReVanced Integrations](https://github.com/inotia00/revanced-integrations/releases/latest)
+- [ReVanced Patches](https://github.com/inotia00/revanced-patches/releases/latest) (`.rvp`file)
 
 3. (Optional): For simplicity, place the APK you downloaded from APKMirror and the packages you downloaded in a folder named `revanced-extended`.
 
@@ -26,17 +25,18 @@ Using ReVanced CLI (PC)
 
 **Running the CLI:**
 
-- For YouTube and Reddit, use the option '--rip-lib' to remove unwanted architectures. (e.g. `--rip-lib=x86 --rip-lib=x86_64` ...)
-- The option '-l' will show the list of available patches.
-- The option '-e' allows you to exclude patches. (e.g. `-e "Theme"` ...)
-- The option '-i' allows you to include patches. (e.g. `-i "MaterialYou"` `-i "GmsCore support"` ...)
+- For YouTube (and Reddit), use the option '--rip-lib' to remove unwanted architectures. (e.g. `--rip-lib=x86 --rip-lib=x86_64` ...)
+- The option '-d' allows you to disable patches. (e.g. `-d "Theme"` ...)
+- The option '-e' allows you to enable patches. (e.g. `-e "MaterialYou"` `-e "GmsCore support"` ...)
+- The option 'list-patches' will show the list of available patches. (e.g. `java -jar revanced-cli.jar list-patches patches.rvp` ...)
+- The option 'options' allows you to generate options file. (e.g. `java -jar revanced-cli.jar options patches.rvp` ...)
+- The option 'patches' allows you to generate patches file. (e.g. `java -jar revanced-cli.jar patches patches.rvp` ...)
 
 ```
 java -jar revanced-cli-all.jar patch \
- -b revanced-patches.jar \
- -m revanced-integrations.apk \
- --options options.json \
- -p \
+ -p patches.rvp \
+ --legacy-options options.json \
+ --purge \
  -o revanced-extended.apk \
  input.apk
 ```
@@ -65,20 +65,20 @@ adb devices
 **4. Running the CLI:**
 
 - For YouTube (and Reddit), use the option '--rip-lib' to remove unwanted architectures. (e.g. `--rip-lib=x86 --rip-lib=x86_64` ...)
-- For ROOT installs, you must exclude the 'GmsCore support' patch using the option '-e'.
-- The option '-e' allows you to exclude patches. (e.g. `-e "GmsCore support"` `-e "Theme"` ...)
-- The option '-i' allows you to include patches. (e.g. `-i "MaterialYou"` ...)
-- The option '-l' will show the list of available patches.
-
+- For ROOT installs, you must disable the 'GmsCore support' patch using the option '-d'.
+- The option '-d' allows you to disable patches. (e.g. `-d "GmsCore support"` `-d "Theme"` ...)
+- The option '-e' allows you to enable patches. (e.g. `-e "MaterialYou"` ...)
+- The option 'list-patches' will show the list of available patches. (e.g. `java -jar revanced-cli.jar list-patches patches.rvp` ...)
+- The option 'options' allows you to generate options file. (e.g. `java -jar revanced-cli.jar options patches.rvp` ...)
+- The option 'patches' allows you to generate patches file. (e.g. `java -jar revanced-cli.jar patches patches.rvp` ...)
 
 ```
 java -jar revanced-cli-all.jar patch \
  -d device-name \
- -b revanced-patches.jar \
- -m revanced-integrations.apk \
- --options options.json \
- -p \
- -e "GmsCore support" \
+ -p patches.rvp \
+ --legacy-options options.json \
+ --purge \
+ -d "GmsCore support" \
  --mount \
  -o revanced-extended.apk \
  input.apk
