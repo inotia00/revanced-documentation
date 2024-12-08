@@ -1,7 +1,7 @@
 Installing RVX Builder for the first time
 ==
 
-1. Install [Termux Monet](https://github.com/HardcodedCat/termux-monet/releases/latest) or [Termux](https://github.com/termux/termux-app/releases/latest).
+1. Install [Termux](https://github.com/termux/termux-app/releases/latest).
 
 2. Open Termux and run these commands:
 
@@ -67,7 +67,7 @@ or
 6. For non-ROOT installations, the patched APK will be saved to your device and it must be manually installed. The path to the APK will be displayed at the bottom of the patch log. For ROOT installations, the app will be mounted automatically.
 
 > [!TIP]
-> For ROOT installations, I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from the Google Play Store, which prevents crashes from occurring in the ROOT environment.
+> For ROOT installations, I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from the Google Play Store, which would cause crashes to occur in the ROOT environment.
 
 
 Additional info
@@ -94,6 +94,10 @@ or
 ```
 ./rvx-builder.sh reinstall && ./rvx-builder.sh run
 ```
+
+### Configuring `options.json`:
+
+Open `options.json` in an editor by running the `opon` command in Termux. After making the desired changes, enter `CTRL + X` to save and close the editor.
 
 Troubleshooting
 ==

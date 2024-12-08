@@ -7,7 +7,7 @@ Revancify is a tool for building ReVanced in Termux. It is developed by [@deciph
 Installing Revancify for the first time
 =
 
-1. Install Termux. [Termux Monet](https://github.com/Termux-Monet/termux-monet/releases) is recommended. Otherwise, use [Termux](https://github.com/termux/termux-app/releases/latest).
+1. Install [Termux](https://github.com/termux/termux-app/releases/latest).
 
 2. Open Termux and run this command to install Revancify:
 
@@ -27,7 +27,7 @@ curl -sL "https://raw.githubusercontent.com/decipher3114/Revancify/main/install.
 After Revancify is installed, type `revancify` in Termux and press `Enter` to run it.  
 
 > [!TIP]   
-> It can also be ran with arguments. See the available arguments with `revancify -h` or `revancify --help`.  
+> It can also be ran with arguments. See the available arguments with `revancify -h`.  
 
 > [!TIP]
 > You can also use my shortcut to quickly open Revancify. Find out more [here](https://github.com/inotia00/RevancifyShortcut?tab=readme-ov-file#shortcut-for-revancify).
@@ -74,4 +74,4 @@ The version will be downloaded and patching will begin.
 5. Install the patched APK when prompted.
 
 > [!TIP]
-> For ROOT installations, I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from the Google Play Store, which prevents crashes from occurring in the ROOT environment.
+> For ROOT installations, I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from the Google Play Store, which would cause crashes to occur in the ROOT environment.
