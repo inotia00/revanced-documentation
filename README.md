@@ -11,15 +11,18 @@ ___
   - [Method 1. RVX Manager (Android)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-manager.md)
     - [Requirements](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-manager.md#requirements)
     - [Using RVX Manager](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-manager.md#using-rvx-manager)
-  - [Method 2. RVX Builder (PC)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(pc).md)
+  - [Method 2. Revancify (Android - Termux)](https://github.com/inotia00/revanced-documentation/blob/main/docs/revancify.md)
+    - [Installing Revancify](https://github.com/inotia00/revanced-documentation/blob/main/docs/revancify.md#installing-revancify-for-the-first-time)
+    - [Using Revancify](https://github.com/inotia00/revanced-documentation/blob/main/docs/revancify.md#patching)
+  - [Method 3. RVX Builder (PC)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(pc).md)
     - [Requirements](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(pc).md#requirements)
     - [Using RVX Builder (PC)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(pc).md#using-rvx-builder-windows--macos--linux)
-  - [Method 3. RVX Builder (Android - Termux)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md)
+  - [Method 4. RVX Builder (Android - Termux)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md)
     - [Installing RVX Builder (Android)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#installing-rvx-builder-for-the-first-time)
     - [Using RVX Builder (Android)](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#using-rvx-builder-termux)
       - [Additional info](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#additional-info)
       - [Troubleshooting RVX Builder](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#troubleshooting)
-  - [Method 4. ReVanced CLI (PC)](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md)
+  - [Method 5. ReVanced CLI (PC)](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md)
     - [Requirements](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md#requirements)
     - [Preparing the packages](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md#preparing-the-packages)
     - [Using ReVanced CLI](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md#using-revanced-cli-pc)
@@ -27,7 +30,6 @@ ___
       - [ROOT installations](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md#root-installations)
   - [Supplement. Patch for latest Reddit](https://github.com/inotia00/revanced-documentation/blob/main/docs/latest-reddit-patch-info.md)
 - [Information about the patches](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md)
-
 ___
 # Patch Information with Screenshots
 
