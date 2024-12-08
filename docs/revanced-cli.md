@@ -9,7 +9,7 @@ Requirements
 Preparing the packages
 ==
 
-1. Follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md) to supply and prepare an APK to patch.
+1. Follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md) to supply and prepare an APK to patch. You can supply a full APK (`.apk`) or a split/bundle APK (`.apkm`/`.apks`/`.xapk`).
 
 2. Download the following packages to your PC:
 - [ReVanced CLI](https://github.com/inotia00/revanced-cli/releases/latest)
@@ -40,6 +40,10 @@ java -jar revanced-cli-all.jar patch \
  -o revanced-extended.apk \
  input.apk
 ```
+
+> [!NOTE]
+> 
+> If using a split/bundle APK, be sure to specify the file extension for the input APK (e.g. `input.apkm`, `input.apks`, `input.xapk`, etc.). 
 
 After patching is complete, install `revanced-extended.apk` from the `revanced-extended` folder to your Android device.
 
@@ -83,6 +87,10 @@ java -jar revanced-cli-all.jar patch \
  -o revanced-extended.apk \
  input.apk
 ```
+
+> [!NOTE]
+> 
+> If using a split/bundle APK, be sure to specify the file extension for the input APK (e.g. `input.apkm`, `input.apks`, `input.xapk`, etc.).
 
 > [!TIP]
 > I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from the Google Play Store, which would cause crashes to occur in the ROOT environment.
