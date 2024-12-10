@@ -35,7 +35,7 @@ Using ReVanced CLI (PC)
 ```
 java -jar revanced-cli-all.jar patch \
  -p patches.rvp \
- --legacy-options options.json \
+ --legacy-options=options.json \
  --purge \
  -o revanced-extended.apk \
  input.apk
@@ -80,7 +80,7 @@ adb devices
 java -jar revanced-cli-all.jar patch \
  -d device-name \
  -p patches.rvp \
- --legacy-options options.json \
+ --legacy-options=options.json \
  --purge \
  -d "GmsCore support" \
  --mount \
