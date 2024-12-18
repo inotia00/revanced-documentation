@@ -29,42 +29,34 @@ After Revancify is installed, type `revancify` in Termux and press `Enter` to ru
 Patching
 ==
 
-1. From the Revancify menu, select `Change Source` and select `inotia00`. Then, press `Done`.
+1. From the Revancify menu, select `Change Source` and select `ReVanced-Extended`. Then, press `Done`.
 
-> [!NOTE]
-> If it is your first time running Revancify, the Change Source menu will open automatically upon installation. So just select `inotia00` and press `Done`.
-
-2. Select `Fetch Tools` to download the latest patch files.
+2. Select `Update Assets` to download the latest CLI and patch files.
 
 <img src="https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_1.gif" alt="revancify_1"/>
 
 
-3. Select `Select Patches` to choose patches to include or exclude for the app you want to patch.
-
-- Read [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude. Otherwise, just click the `Recommended` button.
-
-> [!IMPORTANT]
-> For ROOT YouTube / YT Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installations, the patch must be included.
+3. Select `Patch App` and choose the app you want to auto-download and patch. From the Version Selection Menu, choose the `Auto Select` option or a version labeled `[RECOMMENDED]`.
 
 <img src="https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_2.png" alt="revancify_2" width="400"/>
 
-
-4. Select `Patch App` and choose the app you want to auto-download and patch.
-
-From the Version Selection Menu, choose the `Auto Select` option or a version labeled `[RECOMMENDED]`.
-
-<img src="https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_3.png" alt="revancify_3" width="400"/>
-
-
-The version will be downloaded and patching will begin.
-
 > [!NOTE]
-> If the download feature doesn't work, follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md). Then, return to Revancify and press `From Storage` to select the APK you downloaded from APKMirror.
+> If the download feature doesn't work, follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md). Then, move the APK you downloaded into `Internal storage > Revancify > Stock`. Then, return to Revancify and press `Import` to import the APK you placed in the `Stock` directory.
+>
+> <img src="https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_3.png" alt="revancify_3" width="400"/>
+
+4. Choose patches to include or exclude. If you aren't sure, just press `Recommended`.
+
+- Read [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude.
+
+> [!IMPORTANT]
+> For ROOT YouTube / YT Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installations, the patch must be included.
 >
 > <img src="https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_4.png" alt="revancify_4" width="400"/>
 
+5. After selecting the patches you can configure the patch options (options.json). After they are set to your liking, press `Done` to begin patching.
 
-5. Install the patched APK when prompted.
+6. Install the patched APK when prompted. (The patched APK will also be saved in `Internal storage > Revancify > Patched`.)
 
 > [!TIP]
 > For ROOT installations, I recommend also installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/). It prevents automatic updates from the Google Play Store, which would cause crashes to occur in the ROOT environment.
