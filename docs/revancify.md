@@ -41,7 +41,7 @@ Patching
 <img src="https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_2.png" alt="revancify_2" width="400"/>
 
 > [!NOTE]
-> If the download feature doesn't work, follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md). Move the APK into `Internal storage > Revancify > Stock`. Then, return to Revancify and press `Import` to import the APK you placed in the `Stock` directory.
+> If the download feature doesn't work, follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md). Then, move the APK you downloaded into `Internal storage > Revancify > Stock`. Then, return to Revancify and press `Import` to import the APK you placed in the `Stock` directory.
 >
 > <img src="https://github.com/inotia00/revanced-documentation/blob/main/images/revancify_3.png" alt="revancify_3" width="400"/>
 
