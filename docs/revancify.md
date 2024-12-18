@@ -12,15 +12,8 @@ Installing Revancify for the first time
 2. Open Termux and run this command to install Revancify:
 
 ```
-curl -sL "https://raw.githubusercontent.com/decipher3114/Revancify/main/install.sh" | bash
+curl -sL https://github.com/decipher3114/Revancify/raw/refs/heads/main/install.sh | bash
 ```
-
-> [!TIP]
-> If the above command doesn't work, use this:
->
-> ```
-> pkg update -y -o Dpkg::Options::="--force-confnew" && pkg install git -y && git clone --depth=1 https://github.com/decipher3114/Revancify.git && ./Revancify/revancify
-> ```
 
 
 #### Usage
