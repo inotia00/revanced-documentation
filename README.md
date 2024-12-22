@@ -28,7 +28,6 @@ ___
     - [Using ReVanced CLI](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md#using-revanced-cli-pc)
       - [Non-ROOT installations](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md#non-root-installations)
       - [ROOT installations](https://github.com/inotia00/revanced-documentation/blob/main/docs/revanced-cli.md#root-installations)
-  - [Supplement. Patch for latest Reddit](https://github.com/inotia00/revanced-documentation/blob/main/docs/latest-reddit-patch-info.md)
 - [Information about the patches](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md)
 ___
 # Patch Information with Screenshots
