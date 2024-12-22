@@ -5,9 +5,9 @@ Check the JSON format in the [README.md](https://github.com/inotia00/revanced-pa
 > [!TIP]
 > 
 > If you are confused by the JSON, here is an explanation:
-> - The supported YouTube versions are listed by `com.google.android.youtube`.
-> - The supported YT Music versions are listed by `com.google.android.apps.youtube.music`.
-> - The supported Reddit versions are listed by `com.reddit.frontpage`.
+> - The supported YouTube versions are listed by `com.google.android.youtube`
+> - The supported YT Music versions are listed by `com.google.android.apps.youtube.music`
+> - The supported Reddit versions are listed by `com.reddit.frontpage`
 >
 > If there are no listed supported versions for one of the apps it means that the patches are not constrained to specific versions, and that a wide range of versions are expected to work.
 
