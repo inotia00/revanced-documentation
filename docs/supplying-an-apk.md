@@ -2,22 +2,14 @@
 
 Check the JSON format in the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of the revanced-patches repository to see which app versions are supported.
 
-> [!NOTE]
-> The screenshots below usually do **not** show the currently supported versions. They only demonstrate which sections of the JSON shows the supported versions for each app. Check the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) to see the currently supported versions.
-
-YouTube:
-
-<img src="https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_youtube.png" alt="compatible_packages_youtube" width="400"/>
-
-
-YouTube Music:
-
-<img src="https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_youtube_music.png" alt="compatible_packages_youtube_music" width="400"/>
-
-
-Reddit:
-
-<img src="https://github.com/inotia00/revanced-documentation/blob/main/images/compatible_packages_reddit.png" alt="compatible_packages_reddit" width="400"/>
+> [!TIP]
+> 
+> If you are confused by the JSON, here is an explanation:
+> - The supported YouTube versions are listed by `com.google.android.youtube`.
+> - The supported YT Music versions are listed by `com.google.android.apps.youtube.music`.
+> - The supported Reddit versions are listed by `com.reddit.frontpage`.
+>
+> If there are no listed supported versions for one of the apps it means that the patches are not constrained to specific versions, and that a wide range of versions are expected to work.
 
 
 ### 2. Download a supported version of YouTube / YT Music / Reddit
