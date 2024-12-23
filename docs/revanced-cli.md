@@ -68,7 +68,7 @@ adb devices
 
 **4. Running the CLI:**
 
-- For YouTube (and Reddit), use the option '--rip-lib' to remove unwanted architectures. (e.g. `--rip-lib=x86 --rip-lib=x86_64` ...)
+- For YouTube, use the option '--rip-lib' to remove unwanted architectures. (e.g. `--rip-lib=x86 --rip-lib=x86_64` ...)
 - For ROOT installs, you must disable the 'GmsCore support' patch using the option '-d'.
 - The option '-d' allows you to disable patches. (e.g. `-d "GmsCore support"` `-d "Theme"` ...)
 - The option '-e' allows you to enable patches. (e.g. `-e "MaterialYou"` ...)
