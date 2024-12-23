@@ -18,13 +18,12 @@ Go to [apkmirror.com](https://www.apkmirror.com/) and download a supported versi
 
 <img src="https://github.com/inotia00/revanced-documentation/blob/main/images/apkmirror_youtube.png" alt="apkmirror_youtube" width="700"/>
 
-
 You must download the `nodpi` variant, and the architecture must be compatible with the device you plan to install the patched APK on.
 
 > [!NOTE]
 > ### If you are patching Reddit:
 >
-> Do not install the Reddit APK you downloaded from APKMirror (even if installing in a ROOT environment).
+> Do not install the APK you downloaded from APKMirror. (Reddit should not be mounted.)
 
 > [!NOTE]
 > ### If you are preparing to install in a ROOT environment:
