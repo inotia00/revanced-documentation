@@ -16,7 +16,7 @@ Check the JSON format in the [README.md](https://github.com/inotia00/revanced-pa
 
 Go to [apkmirror.com](https://www.apkmirror.com/) and download a supported version of the app you want to patch.
 
-<img src="/images/apkmirror_youtube.png" alt="apkmirror_youtube" width="700"/>
+<img src="/images/apkmirror_youtube.png" width="700"/>
 
 The architecture of the APK must be compatible with the device you plan to install the patched APK on.
 
