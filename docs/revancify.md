@@ -33,7 +33,7 @@ Patching
 
 2. Select `Update Assets` to download the latest CLI and patch files.
 
-<img src="/images/revancify_1.gif"/>
+<img src="/images/revancify_1.gif" width="300"/>
 
 
 3. Select `Patch App` and choose the app you want to auto-download and patch. From the Version Selection Menu, choose the `Auto Select` option or a version labeled `[RECOMMENDED]`.
