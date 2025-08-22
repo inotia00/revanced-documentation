@@ -30,9 +30,11 @@ ___
       - [ROOT installations](/docs/revanced-cli.md#root-installations)
 - [Information about the patches](/docs/information-about-patches.md)
 ___
-# Patch Information with Screenshots
+# Community-maintained Resources
 
-- [ReVanced-Extended-Community/Patches-Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-with-screenshots)
+- [RVX Wiki](https://github.com/ReVanced-Extended-Community/Community-Guides#readme)
+
+- [Patch Information with Screenshots](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-with-screenshots)
 ___
 <p align="left">
     <a href="https://github.com/inotia00/ReVanced_Extended">
