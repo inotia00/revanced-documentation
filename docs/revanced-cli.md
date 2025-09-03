@@ -2,7 +2,7 @@ Requirements
 ==
 
 - x86/x86_64 host architecture
-- [Zulu JDK 17](https://www.azul.com/downloads/?version=java-17-lts&package=jdk#zulu)
+- [Zulu JDK 17](https://www.azul.com/downloads/?version=java-17-lts&package=jdk#zulu) (You can check the installed version by running `java --version` in a terminal)
 - ADB (only required for ROOT installations)
 
 
@@ -12,11 +12,10 @@ Preparing the packages
 1. Follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md) to supply and prepare an APK to patch. You can supply a full APK (`.apk`) or a split/bundle APK (`.apkm`, `.apks`, `.xapk`, etc.).
 
 2. Download the following packages to your PC:
-- [ReVanced CLI](https://github.com/inotia00/revanced-cli/releases/latest)
-- [ReVanced Patches](https://github.com/inotia00/revanced-patches/releases/latest) (`.rvp`file)
+- [ReVanced CLI](https://github.com/inotia00/revanced-cli/releases/latest) (`.jar` file)
+- [ReVanced Patches](https://github.com/inotia00/revanced-patches/releases/latest) (`.rvp` file)
 
-3. (Optional): For simplicity, place the APK you downloaded from APKMirror and the packages you downloaded in a folder named `revanced-extended`.
-
+3. (Optional): For simplicity, place the APK and packages you downloaded in a folder named `revanced-extended`.
 
 Using ReVanced CLI (PC)
 ==
