@@ -28,6 +28,7 @@ ___
     - [Using ReVanced CLI](/docs/revanced-cli.md#using-revanced-cli-pc)
       - [Non-ROOT installations](/docs/revanced-cli.md#non-root-installations)
       - [ROOT installations](/docs/revanced-cli.md#root-installations)
+  - [Supplement. Patch for latest Reddit](/docs/latest-reddit-patch-info.md)
 - [Information about the patches](/docs/information-about-patches.md)
 ___
 # Community-maintained Resources
