@@ -58,6 +58,8 @@ Patching Reddit v2025.40.0+
 > ```
 > java -jar APKEditor.jar m -i reddit.apkm
 > ```
+> 
+> You can now use `reddit_merged.apk`.
 
 ### Using ReVanced CLI
 
