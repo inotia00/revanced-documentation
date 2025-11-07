@@ -33,6 +33,8 @@ Using ReVanced CLI (PC)
 - The option 'patches' allows you to generate patches file. (e.g. `java -jar revanced-cli.jar patches patches.rvp` ...)
 
 ```
+# Change filenames as needed
+
 java -jar revanced-cli-all.jar patch \
  -p patches.rvp \
  --legacy-options=options.json \
@@ -63,6 +65,8 @@ adb devices
 
 > **If you haven't done so already, install YouTube / YT Music on your device:**
 > ```
+> # Change filenames as needed
+> 
 > adb install -r input.apk
 > ```
 
@@ -77,6 +81,8 @@ adb devices
 - The option 'patches' allows you to generate patches file. (e.g. `java -jar revanced-cli.jar patches patches.rvp` ...)
 
 ```
+# Change filenames as needed
+
 java -jar revanced-cli-all.jar patch \
  -d device-name \
  -p patches.rvp \

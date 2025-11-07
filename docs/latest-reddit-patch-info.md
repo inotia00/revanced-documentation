@@ -58,6 +58,8 @@ Patching Reddit v2025.40.0+
 5. Run the following command to merge the split/bundle Reddit APK into a `.apk`:
 
 ```
+# Change filenames as needed
+
 java -jar APKEditor.jar m -i reddit.apkm
 ```
 
@@ -69,6 +71,8 @@ java -jar APKEditor.jar m -i reddit.apkm
 - The option '-e' allows you to exclude patches. (e.g. `-e "Disable screenshot popup"` ...)
 
 ```
+# Change filenames as needed
+
 java -jar revanced-cli-all.jar \
  -a reddit_merged.apk \
  -o output-folder \
