@@ -2,6 +2,11 @@
 
 Check the JSON format in the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of the revanced-patches repository to see which app versions are supported.
 
+> [!NOTE]
+>
+> If you want to use ReVanced Patches ARSCLib, check the [README.md](https://github.com/inotia00/revanced-patches-arsclib?tab=readme-ov-file#-json-format) of that repository.
+
+
 > [!TIP]
 > 
 > If you are confused by the JSON, here is an explanation:
@@ -10,11 +15,6 @@ Check the JSON format in the [README.md](https://github.com/inotia00/revanced-pa
 > - The supported Reddit versions are listed by `com.reddit.frontpage`
 >
 > If there are no listed supported versions for one of the apps it means that the patches are not constrained to specific versions, and that a wide range of versions are expected to work.
-
-
-> [!NOTE]
->
-> If you want to use ReVanced Patches ARSCLib, check the [README.md](https://github.com/inotia00/revanced-patches-arsclib?tab=readme-ov-file#-json-format) of that repository.
 
 
 ### 2. Download a supported version of YouTube / YT Music / Reddit
