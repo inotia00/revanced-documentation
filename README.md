@@ -7,7 +7,7 @@ ___
 ___
 # Docs
 
-- [Supplying-an-APK](/docs/supplying-an-apk.md)
+- [Supplying an APK](/docs/supplying-an-apk.md)
   - [Method 1. RVX Manager (Android)](/docs/rvx-manager.md)
     - [Requirements](/docs/rvx-manager.md#requirements)
     - [Using RVX Manager](/docs/rvx-manager.md#using-rvx-manager)
