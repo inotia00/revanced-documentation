@@ -2,11 +2,6 @@
 
 Check the JSON format in the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of the revanced-patches repository to see which app versions are supported.
 
-> [!NOTE]
->
-> If you want to use ReVanced Patches ARSCLib, check the [README.md](https://github.com/inotia00/revanced-patches-arsclib?tab=readme-ov-file#-json-format) of that repository.
-
-
 > [!TIP]
 > 
 > If you are confused by the JSON, here is an explanation:

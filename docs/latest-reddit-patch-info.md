@@ -38,28 +38,28 @@ Patching Reddit v2025.40.0+
 
 ### Preparing the packages
 
-1. Follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md) to supply an APK to patch.
+1. Check the JSON format in the [README.md](https://github.com/inotia00/revanced-patches-arsclib?tab=readme-ov-file#-json-format) of the revanced-patches-arsclib repository to see which app versions are supported.
 
-2. Download the following packages to your PC:
+2. Go to [apkmirror.com](https://www.apkmirror.com/) and download a supported version of Reddit to your PC.
+
+> [!NOTE]
+>
+> Do not install the APK you downloaded from APKMirror.
+
+3. Download the following packages to your PC:
 
 - [APKEditor](http://github.com/REAndroid/APKEditor/releases/latest) (`.jar` file)
 - [ReVanced CLI ARSCLib](https://github.com/inotia00/revanced-cli-arsclib/releases/latest) (`.jar` file)
 - [ReVanced Patches ARSCLib](https://github.com/inotia00/revanced-patches-arsclib/releases/latest) (`.jar` file)
 - [ReVanced Integrations](https://github.com/inotia00/revanced-integrations/releases/latest) (`.apk` file)
 
-3. (Optional): For simplicity, place the APK and packages you downloaded in a folder named `revanced-extended`.
+4. (Optional): For simplicity, place the APK and packages you downloaded in a folder named `revanced-extended`.
 
-> [!IMPORTANT]
->
-> ReVanced CLI ARSCLib does not support split/bundle Reddit APKs (`.apkm`, `.apks`, `.xapk`, etc.).
->
-> If the Reddit APK is not a full (`.apk`) file, run the following command to merge the split/bundle APK into a `.apk`:
->
-> ```
-> java -jar APKEditor.jar m -i reddit.apkm
-> ```
-> 
-> You can now use `reddit_merged.apk`.
+5. Run the following command to merge the split/bundle Reddit APK into a `.apk`:
+
+```
+java -jar APKEditor.jar m -i reddit.apkm
+```
 
 
 ### Using ReVanced CLI
