@@ -30,13 +30,23 @@ Patching Reddit v2025.40.0+
 
 ## ReVanced CLI (PC)
 
-Download the following packages:
+### Requirements
 
-- [ReVanced CLI ARSCLib](https://github.com/inotia00/revanced-cli-arsclib/releases/latest)
-- [ReVanced Patches ARSCLib](https://github.com/inotia00/revanced-patches-arsclib/releases/latest)
-- [ReVanced Integrations](https://github.com/inotia00/revanced-integrations/releases/latest)
+- x86/x86_64 host architecture
+- [Zulu JDK 17](https://www.azul.com/downloads/?version=java-17-lts&package=jdk#zulu) (You can check the installed version by running `java --version` in a terminal)
 
-(Optional): For simplicity, place the Reddit APK and the packages you downloaded in a single folder.
+
+### Preparing the packages
+
+1. Follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md) to supply and prepare an APK to patch. You can supply a full APK (`.apk`) or a split/bundle APK (`.apkm`, `.apks`, `.xapk`, etc.).
+
+2. Download the following packages to your PC:
+
+- [ReVanced CLI ARSCLib](https://github.com/inotia00/revanced-cli-arsclib/releases/latest) (`.jar` file)
+- [ReVanced Patches ARSCLib](https://github.com/inotia00/revanced-patches-arsclib/releases/latest) (`.jar` file)
+- [ReVanced Integrations](https://github.com/inotia00/revanced-integrations/releases/latest) (`.apk` file)
+
+3. (Optional): For simplicity, place the APK and packages you downloaded in a folder named `revanced-extended`.
 
 ### Using ReVanced CLI
 
@@ -47,10 +57,10 @@ Download the following packages:
 ```
 java -jar revanced-cli-all.jar \
  -a input.apk \
- -o output-folder \
+ -o revanced-extended.apk \
  -m revanced-integrations.apk \
  --options options.json \
  -b revanced-patches.jar
 ```
 
-After patching is complete, transfer and install `base.apk` from the ouput directory to your Android device.
+After patching is complete, install `revanced-extended.apk` from the `revanced-extended` folder to your Android device.
