@@ -71,10 +71,10 @@ Patching Reddit v2025.40.0+
 ```
 java -jar revanced-cli-all.jar \
  -a reddit_merged.apk \
- -o revanced-extended.apk \
+ -o output-folder \
  -m revanced-integrations.apk \
  --options options.json \
  -b revanced-patches.jar
 ```
 
-After patching is complete, install `revanced-extended.apk` from the `revanced-extended` folder to your Android device.
+After patching is complete, install `base.apk` from the `output-folder` folder to your Android device.
