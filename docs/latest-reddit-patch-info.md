@@ -42,9 +42,18 @@ Patching Reddit v2025.40.0+
 
 2. Download the following packages to your PC:
 
+- [APKEditor](http://github.com/REAndroid/APKEditor/releases/latest) (`.jar` file)
 - [ReVanced CLI ARSCLib](https://github.com/inotia00/revanced-cli-arsclib/releases/latest) (`.jar` file)
 - [ReVanced Patches ARSCLib](https://github.com/inotia00/revanced-patches-arsclib/releases/latest) (`.jar` file)
 - [ReVanced Integrations](https://github.com/inotia00/revanced-integrations/releases/latest) (`.apk` file)
+
+> [!IMPORTANT]
+> ReVanced CLI ARSCLib does not support split-apks (apks, apkm).
+> You should first merge the split-apks and then use the merged apk.
+> Enter the following command to merge the split apks:
+> ```
+> java -jar APKEditor.jar m -i reddit.apkm
+> ```
 
 3. (Optional): For simplicity, place the APK and packages you downloaded in a folder named `revanced-extended`.
 
@@ -56,7 +65,7 @@ Patching Reddit v2025.40.0+
 
 ```
 java -jar revanced-cli-all.jar \
- -a input.apk \
+ -a reddit_merged.apk \
  -o revanced-extended.apk \
  -m revanced-integrations.apk \
  --options options.json \
