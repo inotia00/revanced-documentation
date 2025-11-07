@@ -61,6 +61,7 @@ Patching Reddit v2025.40.0+
 > 
 > You can now use `reddit_merged.apk`.
 
+
 ### Using ReVanced CLI
 
 - The option '-l' will show the list of available patches.
