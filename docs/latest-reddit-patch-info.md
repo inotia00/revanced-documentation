@@ -49,11 +49,16 @@ Patching Reddit v2025.40.0+
 
 > [!IMPORTANT]
 > ReVanced CLI ARSCLib does not support split-apks (apks, apkm).
+> 
 > You should first merge the split-apks and then use the merged apk.
+> 
 > Enter the following command to merge the split apks:
+> 
 > ```
 > java -jar APKEditor.jar m -i reddit.apkm
 > ```
+> 
+> You can now use `reddit_merged.apk`.
 
 3. (Optional): For simplicity, place the APK and packages you downloaded in a folder named `revanced-extended`.
 
