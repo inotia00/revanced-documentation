@@ -7,7 +7,7 @@ Revancify is a tool for building ReVanced in Termux. It is developed by [@deciph
 Installing Revancify for the first time
 =
 
-1. Install [Termux](https://github.com/termux/termux-app/releases/latest).
+1. Install [Termux](https://github.com/Termux-Monet/termux-monet/releases/latest).
 
 2. Open Termux and run this command to install Revancify:
 

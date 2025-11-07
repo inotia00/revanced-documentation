@@ -1,7 +1,7 @@
 Installing RVX Builder for the first time
 ==
 
-1. Install [Termux](https://github.com/termux/termux-app/releases/latest).
+1. Install [Termux](https://github.com/Termux-Monet/termux-monet/releases/latest).
 
 2. Open Termux and run these commands:
 
