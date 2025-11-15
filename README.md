@@ -1,6 +1,6 @@
 # ReVanced Extended Documentation
 
-Instructions to build and install ReVanced Extended.
+Instructions to build and install ReVanced Extended apps.
 ___
 # Announcement on the current state of development
 - [Announcement](/docs/announcement.md)
